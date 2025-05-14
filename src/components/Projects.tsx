@@ -10,7 +10,7 @@ const Projects: React.FC = () => {
       title: "Record Label Website",
       description: " A modern, responsive web app for showcasing artists and albums, built with React, TypeScript, Tailwind CSS, and Supabase for backend data management.",
       tags: ['React', 'TypeScript', 'Tailwind CSS', 'Supabase'],
-      image: './asset/pic2.jpg',
+      image: '/asset/pic2.jpg',
       githubLink: 'https://github.com/demovg/build-it-web',
       demoLink: null, // Set to null if not hosted yet
     },
@@ -18,7 +18,7 @@ const Projects: React.FC = () => {
       title: "Vehicle Insurance Management",
       description: " A responsive web app for managing vehicle insurance policies, built with React, TypeScript, Vite, Tailwind CSS, and shadcn-ui for a clean, modern interface.",
       tags: ['React', 'TypeScript', 'Tailwind CSS', 'shadcn-ui'],
-      image: './asset/pic3.jpg',
+      image: '/asset/pic3.jpg',
       githubLink: 'https://github.com/demovg/insure-future-portal',
       demoLink: null, // Set to null if not hosted yet
     },
