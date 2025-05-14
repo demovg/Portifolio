@@ -45,7 +45,11 @@ const Hero: React.FC = () => {
               <div className="absolute -inset-2 rounded-xl bg-gradient-to-r from-primary/20 to-purple-500/20 blur-xl"></div>
               <div className="relative aspect-square rounded-xl bg-navy-light shadow-lg overflow-hidden">
                 <img 
+<<<<<<< HEAD
                   src="/asset/pic.jpg" 
+=======
+                  src="asset/pic.jpg" 
+>>>>>>> 8bced8d0364c9b07a4052e9a744d8d261ea9d75c
                   alt="Profile" 
                   className="w-full h-full object-cover transition-transform duration-500 hover:scale-105"
                 />
