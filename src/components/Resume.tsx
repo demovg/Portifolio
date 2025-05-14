@@ -100,7 +100,7 @@ const Resume: React.FC = () => {
         {/* Download Resume Button */}
         <div className="text-center mt-16">
           <Button className="btn-primary flex items-center gap-2" asChild>
-            <a href="./asset/Resume.pdf" download>
+            <a href="/asset/Resume.pdf" download>
               <Download size={18} /> Download Full Resume
             </a>
           </Button>
