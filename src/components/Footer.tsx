@@ -58,7 +58,7 @@ const Footer: React.FC = () => {
         
         <div className="border-t border-yellowblack-light/10 mt-12 pt-6 flex flex-col md:flex-row justify-between items-center">
           <p className="text-yellowblack-light text-sm">
-            © {currentYear} Your Name. All rights reserved.
+            © {2025} Abrham Habtamu. All rights reserved.
           </p>
           <p className="text-yellowblack-light text-sm mt-2 md:mt-0">
           </p>
